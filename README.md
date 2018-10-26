@@ -1,6 +1,6 @@
 # Teaspoon
 
-Teaspoon is a ruby gem. Its purpose is to keep a historic record of Cucumber scenario failures and successes. These executions are stored over time and branches. 
+Teaspoon is a ruby gem. Its purpose is to keep a historic record of [Cucumber](https://docs.cucumber.io/) scenario failures and successes. These executions are stored over time and branches. 
 
 With that information, a developer can identify flaky tests, useless tests, or even functionalities that need testing reinforcements.
 
